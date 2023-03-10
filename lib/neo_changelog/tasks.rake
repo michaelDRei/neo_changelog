@@ -2,8 +2,6 @@ require "rake"
 require "bundler"
 require_relative "./utils"
 
-Bundler::GemHelper.install_tasks
-
 namespace :changelog do
   namespace :index do
     desc "List all tasks"
