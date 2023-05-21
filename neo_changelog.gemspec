@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
     "lib/neo_changelog/changelog.rb",
     "lib/neo_changelog/task.rb",
     "lib/neo_changelog/tasks.rake",
+    "lib/neo_changelog/engine.rb",
     "lib/neo_changelog/config.rb",
     "lib/neo_changelog/utils.rb",
     "lib/neo_changelog/directory.rb",
